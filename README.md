@@ -40,7 +40,7 @@ Worked on data analytics projects involving data analysis and visualization.
 
 ## Portfolio
 
-🌐 thanusha-portfolioo.netlify.app
+🌐 🌐 [View My Portfolio](https://thanusha-portfolioo.netlify.app)
 
 
 
